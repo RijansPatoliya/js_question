@@ -2,6 +2,12 @@
 
 console.log("hello,world!")
 
+
+
+
+
+
+
 //question-2
 
 function AddNumber(a,b)
